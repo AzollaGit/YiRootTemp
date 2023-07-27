@@ -1,0 +1,20 @@
+menu "Wifi Configuration"
+
+    config SERVER_IP
+        string "Server IP address"
+            default "192.168.0.1"
+            help
+                Server IP address.
+
+    config SERVER_PORT
+        int "Server port"
+            default "8070"
+            help
+                Server port.
+
+    config FIRMWARE_UPGRADE_URL
+        string "Firmware upgrade url endpoint"
+        default "http://192.168.19.3:8070/app_main.bin"
+        help
+            URL of server which hosts the firmware image.
+endmenu

@@ -1,0 +1,104 @@
+{
+	"folders": [
+		{
+			"name": "esp-idf",
+			"path": "../esp-idf"
+		},
+		{
+			"name": "esp-mdf",
+			"path": "../esp-mdf"
+		},
+		{
+			"name": "YireeRadar-BLE",
+			"path": "../YireeRadar-BLE"
+		},
+		{
+			"name": "YiRootLvgl",
+			"path": "../YiRootLvgl"
+		},
+		{
+			"name": "YiCurtain",
+			"path": "../YiCurtain"
+		},
+		{
+			"name": "YiTumbleMesh",
+			"path": "../YiTumbleMesh"
+		},
+		{
+			"name": "YiAirBed",
+			"path": "../YiAirBed"
+		},
+		{
+			"name": "YiSwitch",
+			"path": "../YiSwitch"
+		},
+		{
+			"name": "YiLedCtrl",
+			"path": "../YiLedCtrl"
+		},
+		{
+			"path": "../YiChairM"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../YiNodeMesh"
+		},
+		{
+			"path": "../YiChairSmart"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"wifi_mesh.h": "c",
+			"app_gpio.h": "c",
+			"app_config.h": "c",
+			"app_user.h": "c",
+			"lv_psram.h": "c",
+			"*.inc": "c",
+			"rmt.h": "c",
+			"app_rf433.h": "c",
+			"app_timer.h": "c",
+			"esp_timer.h": "c",
+			"esp_event.h": "c",
+			"lv_refr.h": "c",
+			"sdkconfig.h": "c",
+			"hal_rmt.h": "c",
+			"ble_gatts.h": "c",
+			"wifi_nvs.h": "c",
+			"wifi_sntp.h": "c",
+			"app_spiffs.h": "c",
+			"app_uart.h": "c",
+			"wifi_user.h": "c",
+			"wifi_mqtt.h": "c",
+			"wifi_sock.h": "c",
+			"mac_utils.h": "c",
+			"mdf_common.h": "c",
+			"mlink_utils.h": "c",
+			"ble_gattc.h": "c",
+			"ble_mesh.h": "c",
+			"wifi_init.h": "c",
+			"wifi_ota.h": "c",
+			"ble_mesh_nvs.h": "c",
+			"*.ipp": "c",
+			"mesh_common.h": "c",
+			"proxy_server.h": "c",
+			"app_nvs.h": "c",
+			"audio_board_init.h": "c",
+			"app_lvgl.h": "c",
+			"tinyusb.h": "c",
+			"hal_gpio.h": "c",
+			"audio_event_iface.h": "c",
+			"lv_port_disp.h": "c",
+			"dirent.h": "c",
+			"gui_guider.h": "c",
+			"audio_error.h": "c",
+			"descriptors_control.h": "c",
+			"wifi_mupgrade.h": "c",
+			"hal_pwm.h": "c",
+			"rmt_private.h": "c",
+			"lv_mem.h": "c"
+		}
+	}
+}
