@@ -14,7 +14,6 @@ GPATH
 *~
 .#*
 \#*#
-*.doc
 
 # Unit Test CMake compile log folder
 log_ut_cmake
